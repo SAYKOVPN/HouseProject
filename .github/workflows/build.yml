@@ -1,0 +1,36 @@
+HouseProject/
+├── .github/
+│   └── workflows/
+│       └── build.yml
+│
+├── app/
+│   ├── build.gradle.kts
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           ├── java/
+│           │   └── com/
+│           │       └── example/
+│           │           └── houseproject/
+│           │               └── MainActivity.kt
+│           │
+│           └── res/
+│               ├── drawable/
+│               ├── mipmap-hdpi/
+│               ├── mipmap-mdpi/
+│               ├── mipmap-xhdpi/
+│               ├── mipmap-xxhdpi/
+│               ├── mipmap-xxxhdpi/
+│               └── values/
+│                   ├── colors.xml
+│                   ├── strings.xml
+│                   └── themes.xml
+│
+├── gradle/
+│   └── wrapper/
+│       └── gradle-wrapper.properties
+│
+├── build.gradle.kts
+├── gradle.properties
+├── settings.gradle.kts
+└── gradlew
